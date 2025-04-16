@@ -1,0 +1,176 @@
+{
+  "en": {
+    "name": "Kusanov Ramzes",
+    "job": "Back-end - ML engineer / Game developer",
+    "aboutTitle": "About Me",
+    "aboutText": "I am a Full-stack engineer with experience in backend development, some experience in frontend and a base in DevOps. Skills in Django, FastAPI, Flask, Spring and ML training, adaptive design and prototyping. Ready to learn and grow further in the field of software development. I also have experience in Unity and ML development.",
+    "contactTitle": "Contact Me",
+    "experienceTitle": "Experience",
+    "educationTitle": "Education",
+    "programmingSkillsTitle": "Programming Skills",
+    "projectsTitle": "Projects",
+    "scientificArticlesTitle": "Scientific articles",
+    "petProjectsTitle": "Pet-projects",
+    "experienceTitle": "Experience",
+    "experienceItems": [
+      {
+        "title": "Game development",
+        "company": " Kazakh-British Technical University",
+        "period": "March 2025 - April 2025",
+        "skills": "Unity, ComfyUI"
+      },
+      {
+        "title": "Full-stack, DevOps",
+        "company": "Kazakh National Agrarian University",
+        "period": "February 2024 - Present",
+        "skills": "Docker, Nginx, Next.js, Spring, Java"
+      },
+      {
+        "title": "Helpdesk specialist",
+        "company": "Freedom Insurance",
+        "period": "June 2024 - July 2024",
+        "skills": "Linux, Windows"
+      },
+      {
+        "title": "Full-stack Developer",
+        "company": "Freelance",
+        "period": "January 2022 - November 2023",
+        "skills": ""
+      },
+      {
+        "title": "Full-stack Developer",
+        "company": "Enactus: Eventi",
+        "period": "June 2023 - October 2023",
+        "skills": "Nest.js"
+      }
+    ],
+    "educationTitle": "Education",
+    "educationItems": [
+      {
+        "title": "Computer hardware and software",
+        "translation": "Вычислительная техника и программное обеспечение",
+        "university": "Kazakh-British Technical University",
+        "universityTranslation": "Казахстанско-Британский технический университет",
+        "gpa": "GPA: 3.30",
+        "period": "2021 - 2025"
+      }
+    ],
+    "skills": "Programming Skills",
+    "skill1": "Experience working with SQLite and PostgreSQL databases for efficient data storage and management.",
+    "skill2": "Researching and applying the fundamentals of machine learning and deep learning using TensorFlow and PyTorch libraries to create neural networks.",
+    "skill3": "Implementing basic DevOps practices and CI/CD using automation tools like GitLab CI for building and deploying workflows.",
+    "skill4": "Developing web applications using Python and frameworks such as Django, FastAPI, Flask, as well as the React frontend framework, particularly Next.js and Nest.js, primarily using TypeScript.",
+    "skill5": "Experimented with ML model development and deployment (TensorFlow/PyTorch), including data preprocessing, model training, and integration into production systems.",
+    "projects": "Projects",
+    "project1": "Digital seed traceability system",
+    "project1Link": "https://kbtu.kaznaru.edu.kz/",
+    "project1ImageAlt": "Image of the digital seed traceability system",
+    "project2": "EVENTI Place – an app aggregating all IT events in the country (project closed)",
+    "project2Link": "https://er10.kz/read/it-novosti/eventi-place-prilozhenie-gde-sobrany-vse-it-sobytija-strany/",
+    "project2ImageAlt": "Image of the EVENTI Place app",
+    "scientificArticles": "Scientific articles",
+    "article1": "Introduction of new embeddings for the LLM model.",
+    "article1Link": "Solution Paper: Artificial Intelligence-Based Virtual Social Companion Technologies",
+    "petProjects": "Pet-projects",
+    "petProject1": "Digital resource management system based on PPO and SAC",
+    "petProject1Link": "https://github.com/lordneogen/RL-resource-managment",
+    "petProject2": "Fine-tuning an LLM model for an RP project",
+    "petProject2Link": "https://github.com/lordneogen/NECO-LLM-ALGO",
+    "petProject3": "2048-3D game project",
+    "petProject3Link": "https://github.com/lordneogen/2048-3D",
+    "petProject4": "A project based on Django and React with game decision training",
+    "petProject4Link": "https://github.com/lordneogen/KingAI",
+    "petProject5":"[GAME JAM GAME]\n                Age of the bubble:\n                game about a bubble named PAZ who is looking for himself and openings of the Legend of Icarus",
+    "petProject6":" [GAME JAM GAME]\n                King of the Hill is a survival game where you play as a monster who must survive 100 days on top of an island while fighting other monsters.",
+    "petProject7":"                Development of a Pipeline for Training Manipulator Agents in Virtual Environments and Transferring Their Skills to Real-World Conditions\n",
+    "petProject8":"                VR game about fire safety (link private)\n",
+    "petProject9":"                Narrative game about human rights (was a designer) (link private)\n"
+  },
+  "ru": {
+    "name": "Кусанов Рамзес",
+    "job": "Back-end - ML инженер / Разработчик игр",
+    "aboutTitle": "Обо мне",
+    "aboutText": "Я Full-stack инженер с опытом бэкенд-разработки, некоторым опытом фронтенд-разработки и базой в DevOps. Навыки в Django, FastAPI, Flask, Spring и обучение ML, адаптивный дизайн и прототипирование. Готов учиться и расти дальше в области разработки ПО. У меня также есть опыт в Unity и ML-разработке.",
+    "contactTitle": "Контакты",
+    "experienceTitle": "Опыт работы",
+    "educationTitle": "Образование",
+    "programmingSkillsTitle": "Навыки программирования",
+    "projectsTitle": "Проекты",
+    "scientificArticlesTitle": "Научные статьи",
+    "petProjectsTitle": "Пет-проекты",
+    "experienceTitle": "Опыт работы",
+    "experienceItems": [
+      {
+        "title": "Разработка игр",
+        "company": "Казахстанско-Британский технический университет",
+        "period": "Март 2025 - Апрель 2025",
+        "skills": "Unity, ComfyUI"
+      },
+      {
+        "title": "Фулл-стек, DevOps",
+        "company": "Казахский национальный аграрный университет",
+        "period": "Февраль 2024 - Настоящее время",
+        "skills": "Docker, Nginx, Next.js, Spring, Java"
+      },
+      {
+        "title": "Специалист службы поддержки",
+        "company": "Freedom Insurance",
+        "period": "Июнь 2024 - Июль 2024",
+        "skills": "Linux, Windows"
+      },
+      {
+        "title": "Фулл-стек разработчик",
+        "company": "Фриланс",
+        "period": "Январь 2022 - Ноябрь 2023",
+        "skills": ""
+      },
+      {
+        "title": "Фулл-стек разработчик",
+        "company": "Enactus: Eventi",
+        "period": "Июнь 2023 - Октябрь 2023",
+        "skills": "Nest.js"
+      }
+    ],
+    "educationTitle": "Образование",
+    "educationItems": [
+      {
+        "title": "Вычислительная техника и программное обеспечение",
+        "translation": "Computer hardware and software",
+        "university": "Казахстанско-Британский технический университет",
+        "universityTranslation": "Kazakh-British Technical University",
+        "gpa": "Средний GPA: 3.30",
+        "period": "2021 - 2025"
+      }
+    ],
+    "skills": "Навыки программирования",
+    "skill1": "Опыт работы с базами данных SQLite и PostgreSQL для эффективного хранения и управления данными.",
+    "skill2": "Исследование и применение основ машинного обучения и глубокого обучения с использованием библиотек TensorFlow и PyTorch для создания нейронных сетей.",
+    "skill3": "Внедрение основ DevOps практик, CI/CD с использованием инструментов автоматизации сборки и развертывания, таких как GitHub CI.",
+    "skill4": "Разработка веб-приложений с использованием языка Python и фреймворков Django, FastAPI, Flask, а также фронтенд-фреймворка React, включая Next.js и Nest.js, с использованием TypeScript.",
+    "skill5": "",
+    "projects": "Проекты",
+    "project1": "Цифровая система прослеживаемости семян",
+    "project1Link": "https://kbtu.kaznaru.edu.kz/",
+    "project1ImageAlt": "Картинка цифровой системы прослеживаемости семян",
+    "project2": "EVENTI Place – приложение, где собраны все IT-события страны (проект закрыт)",
+    "project2Link": "https://er10.kz/read/it-novosti/eventi-place-prilozhenie-gde-sobrany-vse-it-sobytija-strany/",
+    "project2ImageAlt": "Картинка приложения EVENTI Place",
+    "scientificArticles": "Научные статьи",
+    "article1": "Введение новых ембедингов для LLM модели.",
+    "article1Link": "Solution Paper: Artificial Intelligence-Based Virtual Social Companion Technologies",
+    "petProjects": "Пет-проекты",
+    "petProject1": "Цифровая система менеджмента ресурсов на основе PPO и SAC",
+    "petProject1Link": "https://github.com/lordneogen/RL-resource-managment",
+    "petProject2": "Файн-тюнинг LLM модели для RP проекта",
+    "petProject2Link": "https://github.com/lordneogen/NECO-LLM-ALGO",
+    "petProject3": "Игровой проект 2048-3D",
+    "petProject3Link": "https://github.com/lordneogen/2048-3D",
+    "petProject4": "Проект на основе Django и React с обучением игры в выбор",
+    "petProject4Link": "https://github.com/lordneogen/KingAI",
+    "petProject5":"[ИГРА ДЛЯ GAME JAM]\n                Век пузыря:\n                игра о пузыре по имени PAZ, который ищет себя и раскрывает тайны легенды об Икаре",
+    "petProject6":"[ИГРА ДЛЯ GAME JAM]\n                Король горы: игра на выживание, где вы играете за монстра, который должен продержаться 100 дней на вершине острова, сражаясь с другими чудовищами.",
+    "petProject7":"                Разработка конвейера для обучения агентов-манипуляторов в виртуальной среде и переноса их навыков в реальные условия\n",
+    "petProject8":"                VR-игра о пожарной безопасности (ссылка закрыта)\n",
+    "petProject9":"                Нарративная игра о правах человека (участвовал в роли дизайнера) (ссылка закрыта)\n"
+  }
+}
