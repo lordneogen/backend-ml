@@ -1,9 +1,9 @@
 {
   "en": {
     "name": "Kusanov Ramzes",
-    "job": "Back-end - ML engineer / Game developer",
+    "job": "Back-end - ML engineer",
     "aboutTitle": "About Me",
-    "aboutText": "I am a Full-stack engineer with experience in backend development, some experience in frontend and a base in DevOps. Skills in Django, FastAPI, Flask, Spring and ML training, adaptive design and prototyping. Ready to learn and grow further in the field of software development. I also have experience in Unity and ML development.",
+    "aboutText": "I'm a Back-end engineer with practical experience in developing server-side applications and working on machine learning projects. I work with frameworks like Django, FastAPI, Flask, and Spring, and have trained ML models using TensorFlow and PyTorch. I also practice DevOps to ensure smooth deployments. While my focus is on back-end and ML development, I enjoy game development as a hobby. I’m always ready to learn and contribute to new challenges.",
     "contactTitle": "Contact Me",
     "experienceTitle": "Experience",
     "educationTitle": "Education",
@@ -11,40 +11,38 @@
     "projectsTitle": "Projects",
     "scientificArticlesTitle": "Scientific articles",
     "petProjectsTitle": "Pet-projects",
-    "experienceTitle": "Experience",
     "experienceItems": [
       {
         "title": "Game development",
-        "company": " Kazakh-British Technical University",
+        "company": "Kazakh-British Technical University",
         "period": "March 2025 - April 2025",
         "skills": "Unity, ComfyUI"
       },
       {
-        "title": "Full-stack, DevOps",
+        "title": "Back-end, DevOps",
         "company": "Kazakh National Agrarian University",
         "period": "February 2024 - Present",
         "skills": "Docker, Nginx, Next.js, Spring, Java"
       },
       {
-        "title": "Helpdesk specialist",
+        "title": "Helpdesk Specialist",
         "company": "Freedom Insurance",
         "period": "June 2024 - July 2024",
         "skills": "Linux, Windows"
       },
       {
-        "title": "Full-stack Developer",
+        "title": "Back-end Developer",
         "company": "Freelance",
         "period": "January 2022 - November 2023",
         "skills": ""
       },
       {
-        "title": "Full-stack Developer",
+        "title": "Back-end Developer",
         "company": "Enactus: Eventi",
         "period": "June 2023 - October 2023",
         "skills": "Nest.js"
       }
     ],
-    "educationTitle": "Education",
     "educationItems": [
       {
         "title": "Computer hardware and software",
@@ -56,11 +54,11 @@
       }
     ],
     "skills": "Programming Skills",
-    "skill1": "Experience working with SQLite and PostgreSQL databases for efficient data storage and management.",
-    "skill2": "Researching and applying the fundamentals of machine learning and deep learning using TensorFlow and PyTorch libraries to create neural networks.",
-    "skill3": "Implementing basic DevOps practices and CI/CD using automation tools like GitLab CI for building and deploying workflows.",
-    "skill4": "Developing web applications using Python and frameworks such as Django, FastAPI, Flask, as well as the React frontend framework, particularly Next.js and Nest.js, primarily using TypeScript.",
-    "skill5": "Experimented with ML model development and deployment (TensorFlow/PyTorch), including data preprocessing, model training, and integration into production systems.",
+    "skill1": "Experience with SQLite and PostgreSQL for effective data storage and management.",
+    "skill2": "Working with machine learning and deep learning using TensorFlow and PyTorch to build neural networks.",
+    "skill3": "Basic knowledge of DevOps and CI/CD practices using tools like GitLab CI.",
+    "skill4": "Developing server-side applications with Python (Django, FastAPI, Flask) and Java (Spring).",
+    "skill5": "Building and deploying ML models with proper data preprocessing and model training.",
     "projects": "Projects",
     "project1": "Digital seed traceability system",
     "project1Link": "https://kbtu.kaznaru.edu.kz/",
@@ -78,19 +76,19 @@
     "petProject2Link": "https://github.com/lordneogen/NECO-LLM-ALGO",
     "petProject3": "2048-3D game project",
     "petProject3Link": "https://github.com/lordneogen/2048-3D",
-    "petProject4": "A project based on Django and React with game decision training",
+    "petProject4": "A project using Django and React with game decision training",
     "petProject4Link": "https://github.com/lordneogen/KingAI",
-    "petProject5":"[GAME JAM GAME]\n                Age of the bubble:\n                game about a bubble named PAZ who is looking for himself and openings of the Legend of Icarus",
-    "petProject6":" [GAME JAM GAME]\n                King of the Hill is a survival game where you play as a monster who must survive 100 days on top of an island while fighting other monsters.",
-    "petProject7":"                Development of a Pipeline for Training Manipulator Agents in Virtual Environments and Transferring Their Skills to Real-World Conditions\n",
-    "petProject8":"                VR game about fire safety (link private)\n",
-    "petProject9":"                Narrative game about human rights (was a designer) (link private)\n"
+    "petProject5": "[GAME JAM GAME]\n                Age of the bubble:\n                A game about a bubble named PAZ who is on a journey of self-discovery.",
+    "petProject6": "[GAME JAM GAME]\n                King of the Hill: A survival game where you control a monster fighting to stay on an island for 100 days.",
+    "petProject7": "Development of a pipeline for training manipulator agents in virtual environments and transferring their skills to real-world settings.",
+    "petProject8": "VR game about fire safety (link private)",
+    "petProject9": "Narrative game about human rights (designed game elements) (link private)"
   },
   "ru": {
     "name": "Кусанов Рамзес",
-    "job": "Back-end - ML инженер / Разработчик игр",
+    "job": "Back-end - ML инженер",
     "aboutTitle": "Обо мне",
-    "aboutText": "Я Full-stack инженер с опытом бэкенд-разработки, некоторым опытом фронтенд-разработки и базой в DevOps. Навыки в Django, FastAPI, Flask, Spring и обучение ML, адаптивный дизайн и прототипирование. Готов учиться и расти дальше в области разработки ПО. У меня также есть опыт в Unity и ML-разработке.",
+    "aboutText": "Я Back-end инженер с практическим опытом разработки серверных приложений и работы над проектами в области машинного обучения. Я работаю с фреймворками Django, FastAPI, Flask и Spring, а также обучал модели с использованием TensorFlow и PyTorch. Знаком с практиками DevOps, что помогает организовывать стабильное развертывание. Основное направление моей работы – бэкенд и ML разработка, но разработка игр для меня – увлекательное хобби. Готов учиться и решать новые задачи в команде.",
     "contactTitle": "Контакты",
     "experienceTitle": "Опыт работы",
     "educationTitle": "Образование",
@@ -98,7 +96,6 @@
     "projectsTitle": "Проекты",
     "scientificArticlesTitle": "Научные статьи",
     "petProjectsTitle": "Пет-проекты",
-    "experienceTitle": "Опыт работы",
     "experienceItems": [
       {
         "title": "Разработка игр",
@@ -107,7 +104,7 @@
         "skills": "Unity, ComfyUI"
       },
       {
-        "title": "Фулл-стек, DevOps",
+        "title": "Бек-енд, DevOps",
         "company": "Казахский национальный аграрный университет",
         "period": "Февраль 2024 - Настоящее время",
         "skills": "Docker, Nginx, Next.js, Spring, Java"
@@ -119,19 +116,18 @@
         "skills": "Linux, Windows"
       },
       {
-        "title": "Фулл-стек разработчик",
+        "title": "Бек-енд разработчик",
         "company": "Фриланс",
         "period": "Январь 2022 - Ноябрь 2023",
         "skills": ""
       },
       {
-        "title": "Фулл-стек разработчик",
+        "title": "Бек-енд разработчик",
         "company": "Enactus: Eventi",
         "period": "Июнь 2023 - Октябрь 2023",
         "skills": "Nest.js"
       }
     ],
-    "educationTitle": "Образование",
     "educationItems": [
       {
         "title": "Вычислительная техника и программное обеспечение",
@@ -144,10 +140,10 @@
     ],
     "skills": "Навыки программирования",
     "skill1": "Опыт работы с базами данных SQLite и PostgreSQL для эффективного хранения и управления данными.",
-    "skill2": "Исследование и применение основ машинного обучения и глубокого обучения с использованием библиотек TensorFlow и PyTorch для создания нейронных сетей.",
-    "skill3": "Внедрение основ DevOps практик, CI/CD с использованием инструментов автоматизации сборки и развертывания, таких как GitHub CI.",
-    "skill4": "Разработка веб-приложений с использованием языка Python и фреймворков Django, FastAPI, Flask, а также фронтенд-фреймворка React, включая Next.js и Nest.js, с использованием TypeScript.",
-    "skill5": "",
+    "skill2": "Работа с методами машинного и глубокого обучения с использованием TensorFlow и PyTorch.",
+    "skill3": "Базовые знания DevOps и опыт настройки CI/CD с помощью GitLab CI.",
+    "skill4": "Разработка серверных приложений на Python (Django, FastAPI, Flask) и Java (Spring).",
+    "skill5": "Создание и развертывание моделей ML с надлежащей предварительной обработкой данных и обучением модели.",
     "projects": "Проекты",
     "project1": "Цифровая система прослеживаемости семян",
     "project1Link": "https://kbtu.kaznaru.edu.kz/",
@@ -165,12 +161,12 @@
     "petProject2Link": "https://github.com/lordneogen/NECO-LLM-ALGO",
     "petProject3": "Игровой проект 2048-3D",
     "petProject3Link": "https://github.com/lordneogen/2048-3D",
-    "petProject4": "Проект на основе Django и React с обучением игры в выбор",
+    "petProject4": "Проект на Django и React с обучением игры в выбор",
     "petProject4Link": "https://github.com/lordneogen/KingAI",
-    "petProject5":"[ИГРА ДЛЯ GAME JAM]\n                Век пузыря:\n                игра о пузыре по имени PAZ, который ищет себя и раскрывает тайны легенды об Икаре",
-    "petProject6":"[ИГРА ДЛЯ GAME JAM]\n                Король горы: игра на выживание, где вы играете за монстра, который должен продержаться 100 дней на вершине острова, сражаясь с другими чудовищами.",
-    "petProject7":"                Разработка конвейера для обучения агентов-манипуляторов в виртуальной среде и переноса их навыков в реальные условия\n",
-    "petProject8":"                VR-игра о пожарной безопасности (ссылка закрыта)\n",
-    "petProject9":"                Нарративная игра о правах человека (участвовал в роли дизайнера) (ссылка закрыта)\n"
+    "petProject5": "[ИГРА ДЛЯ GAME JAM]\n                Век пузыря:\n                игра о пузыре по имени PAZ, который ищет себя и раскрывает тайны легенды об Икаре",
+    "petProject6": "[ИГРА ДЛЯ GAME JAM]\n                Король горы: игра на выживание, где вы играете за монстра, которому нужно продержаться 100 дней на острове, сражаясь с чудовищами.",
+    "petProject7": "Разработка конвейера для обучения агентов-манипуляторов в виртуальной среде с последующим переносом навыков в реальные условия",
+    "petProject8": "VR-игра о пожарной безопасности (ссылка закрыта)",
+    "petProject9": "Нарративная игра о правах человека (участвовал в роли дизайнера) (ссылка закрыта)"
   }
 }
