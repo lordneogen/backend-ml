@@ -1,5 +1,5 @@
 {
-  "en": {
+  "ru": {
     "name": "Kusanov Ramzes",
     "job": "Back-end & MLOps Engineer",
     "aboutTitle": "About Me",
@@ -80,7 +80,7 @@
     "petProject2Description": "In this project, I developed and fine-tuned a language model using fine-tuning and Low-Rank Adaptation (LoRA) techniques to enhance its performance in specific tasks, such as generating emotionally aware responses. I started by selecting the pre-trained model Llama-3.2-1B-Instruct and adapted it using LoRA, configuring parameters such as rank (r=128) and target modules (e.g., q_proj, k_proj) to optimize computational resources. For training, I prepared a dataset structured with the alpaca_prompt template, which included instructions, user messages, character responses, and end-of-sequence tokens (EOS_TOKEN) to clearly define response boundaries. I used SFTTrainer from the trl library with hyperparameters like learning_rate=2e-4 and per_device_train_batch_size=2 to minimize loss and improve generation quality.To evaluate the model, I applied metrics such as accuracy (0.87), recall (0.82), and F1-score (0.84), along with cross-validation to reduce overfitting. Additionally, I implemented an emotion recognition and regulation system based on temperament types (phlegmatic, sanguine, choleric, melancholic), using the pre-trained model j-hartmann/emotion-english-distilroberta for emotion classification and adjusting their intensity via predefined coefficients. Emotional states were stored in a JSON file, allowing the model to account for user interaction context.The results demonstrated that the model could generate contextually relevant and emotionally adapted responses, increasing user engagement by 78%. The model was deployed on Hugging Face (charcarterllama1B) for easy integration and further refinement. The project combined NLP techniques, neurobiological principles of emotion regulation, and modern model training approaches like LoRA and fine-tuning.",
     "petProject7Description": "The project focuses on developing a Sim2Real pipeline for controlling the RoArm-M2-S manipulator via a neural network trained in Unity. The developed approach includes: analyzing modern Sim2Real methods, preparing the training environment, implementing control code, and testing on real hardware. Throughout the project, participants mastered new tools, learned to troubleshoot challenges, and optimized the process of transferring the model from simulation to reality."
   },
-  "ru": {
+  "en": {
     "name": "Кусанов Рамзес",
     "job": "Back-end & MLOps инженер",
     "aboutTitle": "Обо мне",
