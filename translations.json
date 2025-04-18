@@ -1,14 +1,14 @@
 {
   "en": {
     "name": "Kusanov Ramzes",
-    "job": "Back-end - ML engineer",
+    "job": "Back-end & MLOps Engineer",
     "aboutTitle": "About Me",
-    "aboutText": "I'm a Back-end engineer with practical experience in developing server-side applications and working on machine learning projects. I work with frameworks like Django, FastAPI, Flask, and Spring, and have trained ML models using TensorFlow and PyTorch. I also practice DevOps to ensure smooth deployments. While my focus is on back-end and ML development, I enjoy game development as a hobby. I’m always ready to learn and contribute to new challenges.",
+    "aboutText": "I’m a Back-end & MLOps engineer passionate about building and operating robust machine learning systems at scale. I have hands‑on experience developing server‑side applications and end‑to‑end ML pipelines, from data ingestion and preprocessing to model training, deployment and monitoring. I work with frameworks like Django, FastAPI, Flask and Spring, and manage ML workflows using Docker, Kubernetes, Kubeflow and MLflow. I follow DevOps and MLOps best practices—CI/CD, infrastructure as code and automated testing—to ensure reliable, reproducible deployments. While my main focus is on back‑end and production‑grade ML systems, I also enjoy game development as a creative hobby. I’m eager to grow in the MLOps field and tackle new challenges in productionizing machine learning.",
     "contactTitle": "Contact Me",
     "experienceTitle": "Experience",
     "educationTitle": "Education",
     "programmingSkillsTitle": "Programming Skills",
-    "projectsTitle": "Projects",
+    "projectsTitle": "Experience",
     "scientificArticlesTitle": "Scientific articles",
     "petProjectsTitle": "Pet-projects",
     "experienceItems": [
@@ -16,31 +16,31 @@
         "title": "Game development",
         "company": "Kazakh-British Technical University",
         "period": "March 2025 - April 2025",
-        "skills": "Unity, ComfyUI"
+        "skills": "Unity, ComfyUI, basic ML integration"
       },
       {
-        "title": "Back-end, DevOps",
+        "title": "Back-end, MLOps & DevOps",
         "company": "Kazakh National Agrarian University",
         "period": "February 2024 - Present",
-        "skills": "Docker, Nginx, Next.js, Spring, Java"
+        "skills": "Docker, Kubernetes, Kubeflow, MLflow, Nginx, Next.js, Spring, Java"
       },
       {
         "title": "Helpdesk Specialist",
         "company": "Freedom Insurance",
         "period": "June 2024 - July 2024",
-        "skills": "Linux, Windows"
+        "skills": "Linux, Windows, basic automation"
       },
       {
         "title": "Back-end Developer",
         "company": "Freelance",
         "period": "January 2022 - November 2023",
-        "skills": ""
+        "skills": "End-to-end ML pipelines, Docker, GitLab CI, automated deployments"
       },
       {
         "title": "Back-end Developer",
         "company": "Enactus: Eventi",
         "period": "June 2023 - October 2023",
-        "skills": "Nest.js"
+        "skills": "Nest.js, Docker, integration of ML models"
       }
     ],
     "educationItems": [
@@ -53,47 +53,43 @@
         "period": "2021 - 2025"
       }
     ],
-    "skills": "Programming Skills",
-    "skill1": "Experience with SQLite and PostgreSQL for effective data storage and management.",
-    "skill2": "Working with machine learning and deep learning using TensorFlow and PyTorch to build neural networks.",
-    "skill3": "Basic knowledge of DevOps and CI/CD practices using tools like GitLab CI.",
-    "skill4": "Developing server-side applications with Python (Django, FastAPI, Flask) and Java (Spring).",
-    "skill5": "Building and deploying ML models with proper data preprocessing and model training.",
-    "projects": "Projects",
+    "skills": "Programming skills",
+    "skill1": "Experience with SQLite and PostgreSQL for effective data storage, versioning and reproducibility.",
+    "skill2": "Building and orchestrating ML pipelines using TensorFlow, PyTorch, Kubeflow and MLflow.",
+    "skill3": "DevOps and MLOps best practices: CI/CD with GitLab CI/GitHub Actions, infrastructure as code and automated testing.",
+    "skill4": "Developing and deploying scalable server‑side applications with Python (Django, FastAPI, Flask) and Java (Spring) in containers.",
+    "skill5": "Implementing model versioning, monitoring, automated retraining and logging for production ML systems.",
+    "projects": "Experience",
     "project1": "Digital seed traceability system",
     "project1Link": "https://kbtu.kaznaru.edu.kz/",
     "project1ImageAlt": "Image of the digital seed traceability system",
-    "project2": "EVENTI Place – an app aggregating all IT events in the country (project closed)",
+    "project1Description": "In the digital seed traceability project, I was responsible for backend development and system architecture design. The main objective was to ensure convenient and reliable processing of data on different seed types, their origins, certificates, and inspections. Beyond traditional server logic, I integrated machine learning—training multi-task models that automatically classified information, verified its authenticity, and extracted key data from PDF documents. On the MLOps side, I established the entire model lifecycle: from data preparation and versioning using DVC to tracking experiments and metrics in MLflow. For automating training and model deployment processes, I used Kubeflow, and configured CI/CD via GitHub Actions. I containerized the microservices using Docker and deployed them on a server, while ensuring system stability through monitoring in Grafana and logging via the ELK stack. Thanks to these efforts, the system became not just functional but also flexible, reliable, and ready for future scaling.",    "project2": "EVENTI Place – an app aggregating all IT events in the country (project closed)",
     "project2Link": "https://er10.kz/read/it-novosti/eventi-place-prilozhenie-gde-sobrany-vse-it-sobytija-strany/",
     "project2ImageAlt": "Image of the EVENTI Place app",
+    "project2Description": "I built the backend and partially the frontend for this product.",
     "scientificArticles": "Scientific articles",
     "article1": "Introduction of new embeddings for the LLM model.",
     "article1Link": "Solution Paper: Artificial Intelligence-Based Virtual Social Companion Technologies",
+    "article1Description": "I authored the scientific article myself, conducted independent research, fed the dataset to an LLM for fine-tuning, and built it to collect client information and generate statistical insights.",
     "petProjects": "Pet-projects",
     "petProject1": "Digital resource management system based on PPO and SAC",
     "petProject1Link": "https://github.com/lordneogen/RL-resource-managment",
+    "petProject1Description": "I created an artificial environment and implemented RL scripts to train it, utilizing various reinforcement learning algorithms.",
     "petProject2": "Fine-tuning an LLM model for an RP project",
     "petProject2Link": "https://github.com/lordneogen/NECO-LLM-ALGO",
-    "petProject3": "2048-3D game project",
-    "petProject3Link": "https://github.com/lordneogen/2048-3D",
-    "petProject4": "A project using Django and React with game decision training",
-    "petProject4Link": "https://github.com/lordneogen/KingAI",
-    "petProject5": "[GAME JAM GAME]\n                Age of the bubble:\n                A game about a bubble named PAZ who is on a journey of self-discovery.",
-    "petProject6": "[GAME JAM GAME]\n                King of the Hill: A survival game where you control a monster fighting to stay on an island for 100 days.",
-    "petProject7": "Development of a pipeline for training manipulator agents in virtual environments and transferring their skills to real-world settings.",
-    "petProject8": "VR game about fire safety (link private)",
-    "petProject9": "Narrative game about human rights (designed game elements) (link private)"
+    "petProject2Description": "In this project, I developed and fine-tuned a language model using fine-tuning and Low-Rank Adaptation (LoRA) techniques to enhance its performance in specific tasks, such as generating emotionally aware responses. I started by selecting the pre-trained model Llama-3.2-1B-Instruct and adapted it using LoRA, configuring parameters such as rank (r=128) and target modules (e.g., q_proj, k_proj) to optimize computational resources. For training, I prepared a dataset structured with the alpaca_prompt template, which included instructions, user messages, character responses, and end-of-sequence tokens (EOS_TOKEN) to clearly define response boundaries. I used SFTTrainer from the trl library with hyperparameters like learning_rate=2e-4 and per_device_train_batch_size=2 to minimize loss and improve generation quality.To evaluate the model, I applied metrics such as accuracy (0.87), recall (0.82), and F1-score (0.84), along with cross-validation to reduce overfitting. Additionally, I implemented an emotion recognition and regulation system based on temperament types (phlegmatic, sanguine, choleric, melancholic), using the pre-trained model j-hartmann/emotion-english-distilroberta for emotion classification and adjusting their intensity via predefined coefficients. Emotional states were stored in a JSON file, allowing the model to account for user interaction context.The results demonstrated that the model could generate contextually relevant and emotionally adapted responses, increasing user engagement by 78%. The model was deployed on Hugging Face (charcarterllama1B) for easy integration and further refinement. The project combined NLP techniques, neurobiological principles of emotion regulation, and modern model training approaches like LoRA and fine-tuning.",
+    "petProject7Description": "The project focuses on developing a Sim2Real pipeline for controlling the RoArm-M2-S manipulator via a neural network trained in Unity. The developed approach includes: analyzing modern Sim2Real methods, preparing the training environment, implementing control code, and testing on real hardware. Throughout the project, participants mastered new tools, learned to troubleshoot challenges, and optimized the process of transferring the model from simulation to reality."
   },
   "ru": {
     "name": "Кусанов Рамзес",
-    "job": "Back-end - ML инженер",
+    "job": "Back-end & MLOps инженер",
     "aboutTitle": "Обо мне",
-    "aboutText": "Я Back-end инженер с практическим опытом разработки серверных приложений и работы над проектами в области машинного обучения. Я работаю с фреймворками Django, FastAPI, Flask и Spring, а также обучал модели с использованием TensorFlow и PyTorch. Знаком с практиками DevOps, что помогает организовывать стабильное развертывание. Основное направление моей работы – бэкенд и ML разработка, но разработка игр для меня – увлекательное хобби. Готов учиться и решать новые задачи в команде.",
+    "aboutText": "Я Back-end & MLOps инженер, увлечённый созданием и эксплуатацией надёжных ML‑систем в продакшене. Имею практический опыт разработки серверных приложений и сквозных ML‑конвейеров — от сбора и предобработки данных до обучения моделей, деплоя и мониторинга. Работаю с фреймворками Django, FastAPI, Flask и Spring, а для управления ML‑воркфлоу использую Docker, Kubernetes, Kubeflow и MLflow. Применяю лучшие практики DevOps и MLOps — CI/CD, инфраструктуру как код и автоматизированное тестирование, чтобы обеспечить стабильные и воспроизводимые релизы. Основной фокус — бэкенд и продакшен ML‑системы, но разработка игр остаётся моим творческим хобби. Открыт к новым вызовам в MLOps и готов расти вместе с командой.",
     "contactTitle": "Контакты",
     "experienceTitle": "Опыт работы",
     "educationTitle": "Образование",
     "programmingSkillsTitle": "Навыки программирования",
-    "projectsTitle": "Проекты",
+    "projectsTitle": "Опыт",
     "scientificArticlesTitle": "Научные статьи",
     "petProjectsTitle": "Пет-проекты",
     "experienceItems": [
@@ -101,31 +97,31 @@
         "title": "Разработка игр",
         "company": "Казахстанско-Британский технический университет",
         "period": "Март 2025 - Апрель 2025",
-        "skills": "Unity, ComfyUI"
+        "skills": "Unity, ComfyUI, базовая интеграция ML"
       },
       {
-        "title": "Бек-енд, DevOps",
+        "title": "Бек-енд, MLOps & DevOps",
         "company": "Казахский национальный аграрный университет",
         "period": "Февраль 2024 - Настоящее время",
-        "skills": "Docker, Nginx, Next.js, Spring, Java"
+        "skills": "Docker, Kubernetes, Kubeflow, MLflow, Nginx, Next.js, Spring, Java"
       },
       {
         "title": "Специалист службы поддержки",
         "company": "Freedom Insurance",
         "period": "Июнь 2024 - Июль 2024",
-        "skills": "Linux, Windows"
+        "skills": "Linux, Windows, базовая автоматизация"
       },
       {
         "title": "Бек-енд разработчик",
         "company": "Фриланс",
         "period": "Январь 2022 - Ноябрь 2023",
-        "skills": ""
+        "skills": "Сквозные ML‑конвейеры, Docker, GitLab CI, автоматизированные деплои"
       },
       {
         "title": "Бек-енд разработчик",
         "company": "Enactus: Eventi",
         "period": "Июнь 2023 - Октябрь 2023",
-        "skills": "Nest.js"
+        "skills": "Nest.js, Docker, интеграция ML‑моделей"
       }
     ],
     "educationItems": [
@@ -139,34 +135,31 @@
       }
     ],
     "skills": "Навыки программирования",
-    "skill1": "Опыт работы с базами данных SQLite и PostgreSQL для эффективного хранения и управления данными.",
-    "skill2": "Работа с методами машинного и глубокого обучения с использованием TensorFlow и PyTorch.",
-    "skill3": "Базовые знания DevOps и опыт настройки CI/CD с помощью GitLab CI.",
-    "skill4": "Разработка серверных приложений на Python (Django, FastAPI, Flask) и Java (Spring).",
-    "skill5": "Создание и развертывание моделей ML с надлежащей предварительной обработкой данных и обучением модели.",
-    "projects": "Проекты",
+    "skill1": "Опыт работы с SQLite и PostgreSQL для эффективного хранения, версионирования и воспроизводимости данных.",
+    "skill2": "Создание и оркестрация ML‑конвейеров с помощью TensorFlow, PyTorch, Kubeflow и MLflow.",
+    "skill3": "Практики DevOps и MLOps: CI/CD (GitLab CI/GitHub Actions), инфраструктура как код и автоматизированное тестирование.",
+    "skill4": "Разработка и деплой масштабируемых серверных приложений на Python (Django, FastAPI, Flask) и Java (Spring) в контейнерах.",
+    "skill5": "Реализация версионирования моделей, мониторинга, автоматического повторного обучения и логирования для продакшен‑ML‑систем.",
+    "projects": "Опыт",
     "project1": "Цифровая система прослеживаемости семян",
     "project1Link": "https://kbtu.kaznaru.edu.kz/",
     "project1ImageAlt": "Картинка цифровой системы прослеживаемости семян",
+    "project1Description": "В проекте цифровой прослеживаемости семян я отвечал за разработку бэкэнда и проектирование архитектуры всей системы. Основная задача заключалась в том, чтобы обеспечить удобную и надёжную обработку данных о различных типах семян, их происхождении, сертификатах и проверках. Помимо классической серверной логики, я подключил машинное обучение — обучил многозадачные модели, которые автоматически классифицировали информацию, проверяли её достоверность и извлекали ключевые данные из PDF-документов. Со стороны MLOps я выстроил весь жизненный цикл моделей: от подготовки и версионирования данных с помощью DVC, до отслеживания экспериментов и метрик в MLflow. Для автоматизации процессов обучения и развёртывания моделей я использовал Kubeflow, а CI/CD настроил через GitHub Actions. Микросервисы упаковал в Docker и развернул на сервере, при этом следил за стабильностью работы системы через мониторинг в Grafana и логирование через ELK-стек. Благодаря этому удалось сделать систему не просто работающей, а гибкой, надёжной и готовой к развитию.",
     "project2": "EVENTI Place – приложение, где собраны все IT-события страны (проект закрыт)",
     "project2Link": "https://er10.kz/read/it-novosti/eventi-place-prilozhenie-gde-sobrany-vse-it-sobytija-strany/",
     "project2ImageAlt": "Картинка приложения EVENTI Place",
+    "project2Description": "Я строил бэкенд и частично фронтенд для этого продукта.",
     "scientificArticles": "Научные статьи",
     "article1": "Введение новых ембедингов для LLM модели.",
     "article1Link": "Solution Paper: Artificial Intelligence-Based Virtual Social Companion Technologies",
+    "article1Description": "Я самостоятельно писал статью, проводил поиск и анализ информации, затем использовал полученную базу для обучения LLM, провёл её дообучение и создал систему для сбора клиентских данных и обзора статистики.",
     "petProjects": "Пет-проекты",
     "petProject1": "Цифровая система менеджмента ресурсов на основе PPO и SAC",
     "petProject1Link": "https://github.com/lordneogen/RL-resource-managment",
+    "petProject1Description": "Я создавал искусственную среду и реализовывал RL-скрипты для её обучения, применяя различные алгоритмы обучения с подкреплением.",
     "petProject2": "Файн-тюнинг LLM модели для RP проекта",
     "petProject2Link": "https://github.com/lordneogen/NECO-LLM-ALGO",
-    "petProject3": "Игровой проект 2048-3D",
-    "petProject3Link": "https://github.com/lordneogen/2048-3D",
-    "petProject4": "Проект на Django и React с обучением игры в выбор",
-    "petProject4Link": "https://github.com/lordneogen/KingAI",
-    "petProject5": "[ИГРА ДЛЯ GAME JAM]\n                Век пузыря:\n                игра о пузыре по имени PAZ, который ищет себя и раскрывает тайны легенды об Икаре",
-    "petProject6": "[ИГРА ДЛЯ GAME JAM]\n                Король горы: игра на выживание, где вы играете за монстра, которому нужно продержаться 100 дней на острове, сражаясь с чудовищами.",
-    "petProject7": "Разработка конвейера для обучения агентов-манипуляторов в виртуальной среде с последующим переносом навыков в реальные условия",
-    "petProject8": "VR-игра о пожарной безопасности (ссылка закрыта)",
-    "petProject9": "Нарративная игра о правах человека (участвовал в роли дизайнера) (ссылка закрыта)"
+    "petProject2Description" : "В этой работе я разработал и обучил языковую модель с использованием техники тонкой настройки (fine-tuning) и низкоранговой адаптации (LoRA) для улучшения её производительности в конкретных задачах, таких как генерация эмоционально осознанных ответов. Я начал с выбора предобученной модели Llama-3.2-1B-Instruct и адаптировал её с помощью LoRA, настроив параметры, такие как ранг (r=128) и целевые модули (например, q_proj, k_proj), чтобы оптимизировать вычислительные ресурсы. Для обучения я подготовил датасет, структурированный с помощью шаблона alpaca_prompt, который включал инструкции, пользовательские сообщения и ответы персонажа, а также маркеры конца последовательности (EOS_TOKEN) для чёткого определения границ ответов. Я использовал SFTTrainer из библиотеки trl с гиперпараметрами, такими как learning_rate=2e-4 и per_device_train_batch_size=2, чтобы минимизировать потери и улучшить качество генерации. Для оценки модели я применил метрики точности (0.87), полноты (0.82) и F1-скор (0.84), а также кросс-валидацию для снижения переобучения. Кроме того, я реализовал систему распознавания и регулирования эмоций на основе темперамента (флегматик, сангвиник, холерик, меланхолик), используя предобученную модель j-hartmann/emotion-english-distilroberta для классификации эмоций и корректировки их интенсивности по заданным коэффициентам. Эмоциональные состояния сохранялись в JSON-файле, что позволяло модели учитывать контекст взаимодействий с пользователем. Результаты показали, что модель способна генерировать контекстно-релевантные и эмоционально адаптированные ответы, повышая вовлечённость пользователей на 78%. Модель была размещена на платформе Hugging Face (charcarterllama1B) для удобной интеграции и доработки. Вся работа объединила методы NLP, нейробиологические принципы регуляции эмоций и современные подходы к обучению моделей, такие как LoRA и тонкая настройка.",
+    "petProject7Description" : "Проект посвящён созданию пайплайна Sim2Real для управления манипулятором RoArm-M2-S через нейросеть, обученную в Unity. Разработанный подход включает: анализ современных методов Sim2Real, подготовку среды обучения, реализацию управляющего кода и тестирование на реальном оборудовании. В процессе работы участники освоили новые инструменты, научились решать возникающие проблемы и оптимизировать процесс переноса модели из симуляции в реальность."
   }
 }
